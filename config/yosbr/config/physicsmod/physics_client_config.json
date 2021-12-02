@@ -3,7 +3,7 @@
   "blockPhysicsNew": 0,
   "maxPhysicsObjects": 10000,
   "blockPhysicsScale": 1.0,
-  "particleLifetimeMobs": 0.10000000149011612,
+  "particleLifetimeMobs": 0.30000001192092896,
   "particleLifetimeBlocks": 4.0,
   "particleLifetimeVines": 4.0,
   "particleLifetimeItems": 3.0,

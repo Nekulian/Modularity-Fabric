@@ -4,6 +4,7 @@ logs/
 patched_shaders/
 saves/
 shaderpacks/
+not-enough-crashes/
 
 config.json
 config_new_temp.json
