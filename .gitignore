@@ -15,7 +15,4 @@ config.bak.json
 ds_private_storage.json
 
 config/*
-!config/defaultsettings.json
-!config/defaultsettings/
-!config/illuminations.properties
-!config/physicsmod/
+!config/yosbr/
