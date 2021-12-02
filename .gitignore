@@ -1,4 +1,6 @@
 natives/
+logs/
+.fabric/
 
 config.json
 config_new_temp.json
@@ -6,3 +8,4 @@ options.txt
 realms_persistence.json
 usercache.json
 
+config.bak.json
