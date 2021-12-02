@@ -1,6 +1,9 @@
 natives/
 logs/
 .fabric/
+patched_shaders/
+saves/
+shaderpacks/
 
 config.json
 config_new_temp.json
@@ -14,3 +17,5 @@ ds_private_storage.json
 config/*
 !config/defaultsettings.json
 !config/defaultsettings/
+!config/illuminations.properties
+!config/physicsmod/
