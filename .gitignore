@@ -9,3 +9,8 @@ realms_persistence.json
 usercache.json
 
 config.bak.json
+ds_private_storage.json
+
+config/*
+!config/defaultsettings.json
+!config/defaultsettings/
