@@ -1,3 +1,5 @@
+Fork of [Fabulously Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized) this modpack is 'not' exclusively my creation
+
 # How to install (for newbies)
 1. Download the modpack using [this link](https://github.com/Nekulian/Modularity-Fabric/archive/refs/heads/main.zip)
 2. Create an instance using version ``1.18.x`` and ``Latest Fabric``
