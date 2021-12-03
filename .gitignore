@@ -18,3 +18,5 @@ ds_private_storage.json
 config/*
 !config/yosbr/
 *.disabled
+background.png
+manifest.json
