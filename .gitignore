@@ -5,18 +5,19 @@ patched_shaders/
 saves/
 shaderpacks/
 not-enough-crashes/
+ModTranslations/
 
 config.json
 config_new_temp.json
 options.txt
 realms_persistence.json
 usercache.json
-
+background.png
+manifest.json
+slotlock.json
 config.bak.json
 ds_private_storage.json
 
 config/*
 !config/yosbr/
 *.disabled
-background.png
-manifest.json
