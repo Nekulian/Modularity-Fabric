@@ -6,6 +6,7 @@ saves/
 shaderpacks/
 not-enough-crashes/
 ModTranslations/
+crash-reports/
 
 config.json
 config_new_temp.json
